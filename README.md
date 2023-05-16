@@ -8,5 +8,5 @@ Cuando salí de la universidad, mi proyecto final fue crear un escenario haciend
 •Implementacion de beans AspectGUI
 •Conexión a Base de datos con Postgres
 
-En el siguiente url , se encuentra un vídeo sobre su implementación, debido a lo recién y nativo que se encontraba el framework, no hay mucha documentación.
+En el siguiente url ( https://github.com/AldoRomeroJimenez/AspectGUI/blob/main/FrameworkAspectGUIVideoOficial.mp4 ) , se encuentra un vídeo sobre su implementación, debido a lo recién y nativo que se encontraba el framework, no hay mucha documentación.
 
