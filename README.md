@@ -19,5 +19,5 @@ En 2016, cuando salí de la universidad, mi proyecto final fue crear un escenari
 
 **IDE Utilizado NetBeans 8**
 
-En el repositorio se encuentra un video de cómo inicializar la instacia del proyecto , se encuentra un vídeo sobre su implementación, debido a lo recién y nativo que se encontraba el framework, no hay mucha documentación.
+En el repositorio se encuentra un video (https://github.com/AldoRomeroJimenez/AspectGUI/blob/main/FrameworkAspectGUIVideoOficial(1).mp4) de cómo inicializar la instacia del proyecto , se encuentra un vídeo sobre su implementación, debido a lo recién y nativo que se encontraba el framework, no hay mucha documentación.
 
